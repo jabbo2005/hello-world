@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication
 {
-    class Program
+    class Dummy
     {
-        static void Main(string[] args)
+        public void Run()
         {
-            Console.WriteLine("Hello world");
-            new Dummy().Run();
-            Console.Read();
+            Console.WriteLine("output from Dummy");
         }
     }
 }
