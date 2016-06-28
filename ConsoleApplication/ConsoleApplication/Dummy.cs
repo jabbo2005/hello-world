@@ -10,7 +10,7 @@ namespace ConsoleApplication
     {
         public void Run()
         {
-            Console.WriteLine("output from Dummy");
+            Console.WriteLine("more output from Dummy");
         }
     }
 }
